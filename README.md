@@ -7,15 +7,15 @@ within the data science industry. <br/>
  This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
 ## Table Content
 #### Portfolio Study Projects
-   [Drug Plotting through Matplotlib](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
-   [PostregSQL](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#postregsql)<br/>
-   [SQLalchemy flask](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#sqlalchemy-flask)<br/>
-   [Web Scalping](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#web-scalping)<br/>
-   [NoSQL - MongoDB](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#nosql---mongodb)<br/>
-   [GeoJson](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#geojson)<br/>
-   [Tableau](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#tableau)<br/>
-   [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
-   [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
+   > [Drug Plotting through Matplotlib](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
+   > [PostregSQL](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#postregsql)<br/>
+   > [SQLalchemy flask](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#sqlalchemy-flask)<br/>
+   > [Web Scalping](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#web-scalping)<br/>
+   > [NoSQL - MongoDB](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#nosql---mongodb)<br/>
+   > [GeoJson](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#geojson)<br/>
+   > [Tableau](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#tableau)<br/>
+   > [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
+   > [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
    <br/>
 #### Certification and Contact 
 [Certificate](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificate)<br/>
