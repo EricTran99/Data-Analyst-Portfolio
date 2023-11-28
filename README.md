@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-##About Myself
+## About Myself
 Hi, my name is Eric Tran, I have a science background in chemistry and biochemistry with a bachelor degree of Science from Monash University, with a major in Chemistry and minor in Immunology.
 I have worked as lab assistant for 2 years, where my role revolves with blood samples and collect patient data for medical research. After completing my bootcamp course under Monash University, I am now an aspiring data analyst
 within the data science industry. <br/>
@@ -16,10 +16,11 @@ within the data science industry. <br/>
    [Tableau](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#tableau)<br/>
    [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
    [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
+   <br/>
 [Certificate/Education](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificateeducation)<br/>
 [Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
-##Portfolio Study Projects
+## Portfolio Study Projects
 This section showcases the various projects that I've created during my bootcamp course. For each of the projects, there will be a brief summary about the project's context, what program language used, as well as the link to the repository which explains
 about the project in more details.
 
