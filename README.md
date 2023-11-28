@@ -17,6 +17,7 @@ within the data science industry. <br/>
    [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
    [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
    <br/>
+#### Certification and Contact 
 [Certificate](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificate)<br/>
 [Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
@@ -102,5 +103,5 @@ Bachelor of Science (2022) - Monash University <br/>
 Graduate Certificate in Data analytics (2023) - Monash Bootcamp <br/>
 
 ## Contact
-email: ericmantry@gmail.com <br/>
+email: eric.tran.11.01.1999@gmail.com <br/>
 Linkedln: [@Nisloen](https://www.linkedin.com/in/eric-tran-b8a979258/)
