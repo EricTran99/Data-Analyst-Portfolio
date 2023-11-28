@@ -18,8 +18,8 @@ within the data science industry. <br/>
    > [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
    
 #### Certification and Contact
-[Certificat](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificate)<br/>
-[Contac](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
+[Certificate](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificate)<br/>
+[Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
 ## Portfolio Study Projects
 This section showcases the various projects that I've created during my bootcamp course. For each of the projects, there will be a brief summary about the project's context, what program language used, as well as the link to the repository which explains
