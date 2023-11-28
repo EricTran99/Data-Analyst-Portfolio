@@ -1,13 +1,25 @@
 # Data-Analyst-Portfolio
-<h1>About Myself</h1>
+##About Myself
 Hi, my name is Eric Tran, I have a science background in chemistry and biochemistry with a bachelor degree of Science from Monash University, with a major in Chemistry and minor in Immunology.
 I have worked as lab assistant for 2 years, where my role revolves with blood samples and collect patient data for medical research. After completing my bootcamp course under Monash University, I am now an aspiring data analyst
 within the data science industry. <br/>
  <br/>
  This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Table Content
+[Portfolio Study Projects](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#portfolio-study-projects)<br/>
+   [Drug Plotting through Matplotlib](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
+   [PostregSQL](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#postregsql)<br/>
+   [SQLalchemy flask](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#sqlalchemy-flask)<br/>
+   [Web Scalping](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#web-scalping)<br/>
+   [NoSQL - MongoDB](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#nosql---mongodb)<br/>
+   [GeoJson](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#geojson)<br/>
+   [Tableau](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#tableau)<br/>
+   [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
+   [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
+[Certificate/Education](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificateeducation)<br/>
+[Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
-<h3>Portfolio Study Projects</h3>
+##Portfolio Study Projects
 This section showcases the various projects that I've created during my bootcamp course. For each of the projects, there will be a brief summary about the project's context, what program language used, as well as the link to the repository which explains
 about the project in more details.
 
@@ -81,10 +93,12 @@ Code link: [model creation coding](https://github.com/Nisloen/Assignment-21-Deep
 Repository Link:[Deep neural network](https://github.com/Nisloen/Assignment-21-Deep-Neural-Network) <br/>
 Overview: This project explores the deep neural network in which using the structure of neuron to create a machine model that can examine far more complex dataset. This is shown through the repository as the learning process in 
 altering the model in order to find the most accurate model with the charity organisation data as the training data.<br/>
-Technology: Jupyter notebook, sklearn, tensorflow
+Technology: Jupyter notebook, sklearn, tensorflow <br/>
+ <br/>
+
  <br/>
 ## Certificate/Education
-Bachelor of Science (2022) - Monash University
+Bachelor of Science (2022) - Monash University <br/>
 Graduate Certificate in Data analytics (2023) - Monash Bootcampe 
 
 ## Contact
