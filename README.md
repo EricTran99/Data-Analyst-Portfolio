@@ -6,7 +6,7 @@ within the data science industry. <br/>
  <br/>
  This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
 ## Table Content
-[Portfolio Study Projects](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#portfolio-study-projects)<br/>
+#### Portfolio Study Projects
    [Drug Plotting through Matplotlib](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
    [PostregSQL](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#postregsql)<br/>
    [SQLalchemy flask](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#sqlalchemy-flask)<br/>
@@ -17,7 +17,7 @@ within the data science industry. <br/>
    [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
    [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
    <br/>
-[Certificate/Education]()<br/>
+[Certificate](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificate)<br/>
 [Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
 ## Portfolio Study Projects
