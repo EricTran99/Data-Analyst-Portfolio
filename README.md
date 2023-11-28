@@ -98,7 +98,7 @@ Technology: Jupyter notebook, sklearn, tensorflow <br/>
  <br/>
 
  <br/>
-## Certificate/Education
+## Certificate
 Bachelor of Science (2022) - Monash University <br/>
 Graduate Certificate in Data analytics (2023) - Monash Bootcampe 
 
