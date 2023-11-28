@@ -4,7 +4,8 @@ Hi, my name is Eric Tran, I have a science background in chemistry and biochemis
 I have worked as lab assistant for 2 years, where my role revolves with blood samples and collect patient data for medical research. After completing my bootcamp course under Monash University, I am now an aspiring data analyst
 within the data science industry. <br/>
  <br/>
- This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.
+ This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Portfolio Study Projects</h3>
 This section showcases the various projects that I've created during my bootcamp course. For each of the projects, there will be a brief summary about the project's context, what program language used, as well as the link to the repository which explains
