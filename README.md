@@ -83,8 +83,10 @@ Overview: This project explores the deep neural network in which using the struc
 altering the model in order to find the most accurate model with the charity organisation data as the training data.<br/>
 Technology: Jupyter notebook, sklearn, tensorflow
  <br/>
+## Certificate/Education
+Bachelor of Science (2022) - Monash University
+Graduate Certificate in Data analytics (2023) - Monash Bootcampe 
 
-
-<h5>Contact</h5>
+## Contact
 email: ericmantry@gmail.com <br/>
 Linkedln: [@Nisloen](https://www.linkedin.com/in/eric-tran-b8a979258/)
