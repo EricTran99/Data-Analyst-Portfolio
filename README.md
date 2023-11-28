@@ -17,7 +17,7 @@ within the data science industry. <br/>
    [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
    [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
    <br/>
-[Certificate/Education](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificateeducation)<br/>
+[Certificate/Education]()<br/>
 [Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
 ## Portfolio Study Projects
@@ -96,11 +96,10 @@ Overview: This project explores the deep neural network in which using the struc
 altering the model in order to find the most accurate model with the charity organisation data as the training data.<br/>
 Technology: Jupyter notebook, sklearn, tensorflow <br/>
  <br/>
-
- <br/>
+ 
 ## Certificate
 Bachelor of Science (2022) - Monash University <br/>
-Graduate Certificate in Data analytics (2023) - Monash Bootcampe 
+Graduate Certificate in Data analytics (2023) - Monash Bootcamp <br/>
 
 ## Contact
 email: ericmantry@gmail.com <br/>
