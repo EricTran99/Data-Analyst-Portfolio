@@ -1,8 +1,9 @@
 # Data-Analyst-Portfolio
 ## About Myself
-Hi, my name is Eric Tran, I have a science background in chemistry and biochemistry with a bachelor degree of Science from Monash University, with a major in Chemistry and minor in Immunology.
-I have worked as lab assistant for 2 years, where my role revolves with blood samples and collect patient data for medical research. After completing my bootcamp course under Monash University, I am now an aspiring data analyst
-within the data science industry. <br/>
+Hi, my name is Eric Tran, I have a analytical and scientific background in analytical chemistry and biochemistry, I’m currently working as a lab assistant for Monash University at Alfred Hospital. I have developed and improved my skill in the medical science and desire in using data to uncover insight that are beyond statistics. I am excited to bring my technical and analytical skills to the data industry as an entry-level data specialist. <br/>
+During my bootcamp course, I have learned and hone my skill in working with complicated data through various programming tools in order to identify trends and patterns. In addition, in my experience in the laboratory environment, I have honed my skill in data management and statistical analysis, which I believe will be valuable for my role as a data specialist. <br/>
+During my free time, I continue to explore and improve my programming skills beyond my time during the bootcamp, as well as testing my skills with various projects, whether the topic is based on real world data or personal curiosity. I’m always driven in finding insights that can’t be seen through a table of number and the satisfaction in using data as the answer to solving complex problems. <br/>
+My CV is attached as []()<br/>
  <br/>
  This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
 ## Table Content
