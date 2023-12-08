@@ -58,7 +58,7 @@ Overview: This project introduce the technique in extracting data from website, 
 is used for learning purpose)<br/>
 Technology: Jupyter notebook, "Web scapling"
  <br/>
- ### UK food analsysis - MongoDB/noSQL
+ ### UK food analysis - MongoDB/noSQL
 Code link: <br/>
 [UK food - SQL setup]([https://github.com/Nisloen/Assignment-12-NoSQL/blob/main/NoSQL_setup_starter.ipynb](https://github.com/EricTran99/UK_food_search_analysis-NoSQL/blob/main/NoSQL_setup_starter.ipynb))<br/>
 [UK food - analysis](https://github.com/EricTran99/UK_food_search_analysis-NoSQL/blob/main/NoSQL_analysis_starter.ipynb)<br/>
