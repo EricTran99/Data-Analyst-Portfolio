@@ -109,4 +109,4 @@ Graduate Certificate in Data analytics (2023) - Monash Bootcamp <br/>
 
 ## Contact
 email: eric.tran.11.01.1999@gmail.com <br/>
-Linkedln: [@Nisloen](https://www.linkedin.com/in/eric-tran-b8a979258/)
+Linkedln: [https://www.linkedin.com/in/eric-tran-b8a979258/](https://www.linkedin.com/in/eric-tran-b8a979258/)
