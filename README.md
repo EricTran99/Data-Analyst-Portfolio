@@ -6,7 +6,7 @@ During my bootcamp course, I have learned and hone my skill in working with comp
  <br/>
 During my free time, I continue to explore and improve my programming skills beyond my time during the bootcamp, as well as testing my skills with various projects, whether the topic is based on real world data or personal curiosity. I’m always driven in finding insights that can’t be seen through a table of number and the satisfaction in using data as the answer to solving complex problems. <br/>
  <br/>
-My CV is attached as [Eric Tran CV](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/Eric%20Tran%20CV.docx)<br/>
+My CV is attached as [Eric Tran Resume](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/Eric%20Tran%20Resume%20-%20Data%20Analyst.pdf)<br/>
  <br/>
  This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
 ## Table Content
