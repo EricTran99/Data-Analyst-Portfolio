@@ -13,7 +13,6 @@ My CV is attached as [Eric Tran Resume](https://github.com/EricTran99/Data-Analy
 #### Portfolio Study Projects <br/>
    > [Drug Plotting through Matplotlib](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
    > [Department Table Structure - PostregSQL](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#department-table-structure---postregsql)<br/>
-   > [SQLalchemy flask](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#sqlalchemy-flask)<br/>
    > [Web Scalping](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#web-scalping)<br/>
    > [UK food analysis - MongoDB/noSQL](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#uk-food-analysis---mongodbnosql)<br/>
    > [Earthquake visualisation - GeoJson](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#earthquake-visualisation---geojson)<br/>
@@ -43,12 +42,7 @@ Repository Link:[department Table Structure - PostregSQL](https://github.com/Eri
 Overview: This project focus on understanding PostregSQL and Entity Relationship Diagram. The repository showcase through pgAdmin how the primary and unique key can connect across the many tables.<br/>
 Technology: Jupyter notebook, PostregSQL, pgAdmin
  <br/>
-### SQLalchemy flask
-Code link: [climate_starter.ipynb](https://github.com/Nisloen/Assignment-10-SQLaclchemy_flask/blob/main/climate_starter.ipynb)<br/>
-Repository Link:[climate SQLalchemy & flask](https://github.com/Nisloen/Assignmant-9-PostregSQL) <br/>
-Overview: This project explores the SQLalchemy and Flask by using the knowledge in analysing the weather precipation statistics in hawaii. This is shown through the repisotory as the example in utilising SQLalchemy and Flask. <br/>
-Technology: Jupyter notebook, Python, SQLalchemy, Flask
- <br/>
+
  ### Web Scalping
 Code link: <br/>
 [Mars News](https://github.com/Nisloen/Assignment-11-Web-Scalping/blob/main/part_1_mars_news.ipynb)<br/>
