@@ -93,7 +93,7 @@ This section showcases the various projects that I've created during my bootcamp
  <br/>
  <br/>
 
- ### Unsupervised learning
+ ### Crypto Coin clustering - Unsupervised learning
 **Code link**: [ Crypto clustering](https://github.com/EricTran99/Crypto_Coin_cluster_analysis-Unsupervised_Learning/blob/main/Crypto_Clustering.ipynb)<br/>
 **Repository Link**:[ Unsupervised learning - crypto](https://github.com/EricTran99/Crypto_Coin_cluster_analysis-Unsupervised_Learning) <br/>
 **Overview**: This project focus on understanding one of the machine learning method, unsupervised learning. The repository showcases clustering as one of the unsupervised learning technique that's used to examine the popular crypto coin's price changes across timepoint periods.<br/>
