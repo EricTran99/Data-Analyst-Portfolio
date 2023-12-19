@@ -48,7 +48,7 @@ This section showcases the various projects that I've created during my bootcamp
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/a2e45241-2bc9-453c-a0bb-281f44488227) <br/>
  <br/>
  <br/>
- ### Web Scalping
+ ### Web Scalping Mars Data
 **Code link**: <br/>
 [Mars News](https://github.com/EricTran99/Web_Scalping_Mar_Data-Web_Scalping/blob/main/part_1_mars_news.ipynb)<br/>
 [Mars Temperature](https://github.com/EricTran99/Web_Scalping_Mar_Data-Web_Scalping/blob/main/part_2_mars_weather.ipynb)<br/>
