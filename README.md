@@ -11,19 +11,19 @@ My CV is attached as [Eric Tran Resume](https://github.com/EricTran99/Data-Analy
  This repository showcases the various projects that displays different programming languages and see the progression of my journey as an aspiring Data Analyst.<br/>
 ## Table Content
 #### Portfolio Study Projects <br/>
-   > [Drug Plotting through Matplotlib](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
+   > [Drug Plotting through Matplotlib](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#drug-plotting-through-matplotlib)<br/>
    > [Department Table Structure - PostregSQL](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#department-table-structure---postregsql)<br/>
-   > [Web Scalping](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#web-scalping)<br/>
+   > [Web Scalping Mars Data](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#web-scalping-mars-data)<br/>
    > [UK food analysis - MongoDB/noSQL](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#uk-food-analysis---mongodbnosql)<br/>
    > [Earthquake visualisation - GeoJson](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#earthquake-visualisation---geojson)<br/>
    > [Citi Bike Data Analysis - Tableau](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#citi-bike-data-analysis---tableau)<br/>
-   > [Unsupervised learning](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#unsupervised-learning)<br/>
+   > [Crypto Coin clustering - Unsupervised learning](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#crypto-coin-clustering---unsupervised-learning)<br/>
    > [Credit Loan model - Machine Learning](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#credit-loan-model---machine-learning)<br/>
-   > [Deep Neural Network](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
+   > [Deep Neural Network](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
    
 #### Certification and Contact
-[Certificate](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#certificate)<br/>
-[Contact](https://github.com/Nisloen/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
+[Certificate](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
+[Contact](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
 
 ## Portfolio Study Projects
 This section showcases the various projects that I've created during my bootcamp course. For each of the projects, there will be a brief summary about the project's context, what program language used, as well as the link to the repository which explains about the project in more details.
