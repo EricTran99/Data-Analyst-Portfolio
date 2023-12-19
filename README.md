@@ -33,6 +33,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository link**: [ Drug plotting](https://github.com/EricTran99/Drug_Tumor_effect_analysis_on_Mouse_subjects-Matplotlib)<br/>
 **Overview**: This project explore around the csv dataset that contains raw drug testing results from examining the impact of on the tumor size based on the various injected drug onto mouse. The project examines and calculate the statistics, as well as displaying the results through bar and pie graph to highlight insights<br/>
 **Technology**: Jupyter notebook, matplotlib <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/87a668af-b3aa-47c5-90e0-ff332f1ee82d) <br/>
  <br/>
@@ -42,6 +43,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ Department Table Structure - PostregSQL](https://github.com/EricTran99/Department_Table_Structure) <br/>
 **Overview**: This project focus on understanding PostregSQL and Entity Relationship Diagram. The repository showcase through pgAdmin how the primary and unique key can connect across the many tables.<br/>
 **Technology**: Jupyter notebook, PostregSQL, pgAdmin <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/a2e45241-2bc9-453c-a0bb-281f44488227) <br/>
  <br/>
@@ -53,6 +55,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ Mars Web scapling](https://github.com/EricTran99/Web_Scalping_Mar_Data-Web_Scalping) <br/>
 **Overview**: This project introduce the technique in extracting data from website, importing with BeautifulSoup and explore and visualise the data through matplotlib. The repository uses the website relating to Mars (the website is used for learning purpose)<br/>
 **Technology**: Jupyter notebook, "Web scapling" <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/a3c26e1d-2936-4fad-b9fe-325b960db137) <br/>
  <br/>
@@ -65,6 +68,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ NoSQL](https://github.com/EricTran99/UK_food_search_analysis-NoSQL) <br/>
 **Overview**: In this project, MongoDB is the main program that's explored, the mongodb is coded under Python which is used to analyse UK food json data in order to search answer relating to the json data source. <br/>
 **Technology**: Jupyter notebook, MongoDB, pymongo <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/673cb420-9240-48d4-9e27-801d32d9d909) <br/>
  <br/>
@@ -74,6 +78,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ Earthquake Visualisation - GeoJson](https://github.com/EricTran99/Earthquake_Visualisation) <br/>
 **Overview**: This project focus on using the GeoJson data and using Javascript to analyse the json and extract the neccessary details, html to display the result with the global map, and css to stylise the website/HTML<br/>
 **Technology**: Javascript, CSS, leaflet, HTML <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/87c37b5e-393a-406e-8354-189cbf3560f6) <br/>
  <br/>
@@ -82,6 +87,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ Tableau - citi data](https://github.com/EricTran99/Citi_Bike_Data_Analysis) <br/>
 **Overview**: Tableau is the main program that is explored and learned the program software. The version used for the project is the free version and the repository explains in further detail in examing the changes of bike installation across the year.<br/>
 **Technology**: Tableau <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/c622cf1a-c761-46d1-92f6-b86792efa2d4) <br/>
  <br/>
@@ -92,6 +98,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ Unsupervised learning - crypto](https://github.com/EricTran99/Crypto_Coin_cluster_analysis-Unsupervised_Learning) <br/>
 **Overview**: This project focus on understanding one of the machine learning method, unsupervised learning. The repository showcases clustering as one of the unsupervised learning technique that's used to examine the popular crypto coin's price changes across timepoint periods.<br/>
 **Technology**: Jupyter notebook, sklearn, hvplot <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/58a4dce1-511a-4b81-a44c-08580bf240e6) <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/fc229f14-8394-475a-9360-555ed4f501fb) <br/>
@@ -102,6 +109,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Repository Link**:[ Machine learning - finance](https://github.com/EricTran99/Credit_Loan_Risk_Model) <br/>
 **Overview**: This project focus on understanding how machine learning model are created and used to make prediction using previous dataset. The repository showcase how the model is made using the credit dataset as the training data and examine its accuracy.<br/>
 **Technology**: Jupyter notebook, sklearn, numpy <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/13e59aed-5e43-40f9-89e5-4c683f0bd9d6) <br/>
  <br/>
@@ -113,6 +121,7 @@ This section showcases the various projects that I've created during my bootcamp
 **Overview**: This project explores the deep neural network in which using the structure of neuron to create a machine model that can examine far more complex dataset. This is shown through the repository as the learning process in 
 altering the model in order to find the most accurate model with the charity organisation data as the training data.<br/>
 **Technology**: Jupyter notebook, sklearn, tensorflow <br/>
+ <br/>
 **Highlight** <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/b1698f82-a0a5-4cfb-b455-20aac5982ed8) <br/>
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/aa571664-76f1-4e12-821c-7ad5727193af) <br/>
