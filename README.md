@@ -20,7 +20,7 @@ My CV is attached as [Eric Tran Resume](https://github.com/EricTran99/Data-Analy
    > [Crypto Coin clustering - Unsupervised learning](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#crypto-coin-clustering---unsupervised-learning)<br/>
    > [Credit Loan model - Machine Learning](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#credit-loan-model---machine-learning)<br/>
    > [Deep Neural Network](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
-   > [Sentimental food Review](![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/0bd85496-f08b-4b23-81ce-6ebbfa81b527) <br/>
+   > [Sentimental food Review](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#sentimental-food-review) <br/>
 
 #### Certification and Contact
 [Certificate](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
