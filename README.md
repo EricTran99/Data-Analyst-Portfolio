@@ -129,8 +129,13 @@ altering the model in order to find the most accurate model with the charity org
  <br/>
  <br/>
  
-### test
+### Sentimental Food Review
+**Repository Link**: [ Sentimental Analysis](https://github.com/Kakhai1/Sentiment-Analysis) <br/>
+**Overview**: This project webscrape user food review from a particular restaurant (when typed in the search bar) which the review are analysed by the BERT data model. With the results, it would be establish as visual graphs with the objectively accurate food star based on the request name of the restaurant and the which suburb it resides at. <br/>
 
+![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/5c13c17e-58dd-4288-b722-d1aa5e20e164) <br/>
+ <br/>
+ <br/>
 
 ## Certificate
 Bachelor of Science (2022) - Monash University <br/>
