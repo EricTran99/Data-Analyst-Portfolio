@@ -128,11 +128,7 @@ altering the model in order to find the most accurate model with the charity org
 
  <br/>
  <br/>
-  ### Sentimental food Review
- ### Sentimental Food Review
- **Repository Link**: [ Sentimental Analysis](https://github.com/Kakhai1/Sentiment-Analysis) <br/>
-
-![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/5340f394-c177-45c8-95c1-4b834d22e83e)
+### test
 
 
 ## Certificate
