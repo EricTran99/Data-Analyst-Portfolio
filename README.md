@@ -20,7 +20,8 @@ My CV is attached as [Eric Tran Resume](https://github.com/EricTran99/Data-Analy
    > [Crypto Coin clustering - Unsupervised learning](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#crypto-coin-clustering---unsupervised-learning)<br/>
    > [Credit Loan model - Machine Learning](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#credit-loan-model---machine-learning)<br/>
    > [Deep Neural Network](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
-   
+   > [Sentimental food Review](![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/0bd85496-f08b-4b23-81ce-6ebbfa81b527) <br/>
+
 #### Certification and Contact
 [Certificate](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#deep-neural-network)<br/>
 [Contact](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/README.md#contact)<br/>
@@ -131,7 +132,7 @@ altering the model in order to find the most accurate model with the charity org
  
 ### Sentimental Food Review
 **Repository Link**: [ Sentimental Analysis](https://github.com/Kakhai1/Sentiment-Analysis) <br/>
-**Overview**: This project webscrape user food review from a particular restaurant (when typed in the search bar) which the review are analysed by the BERT data model. With the results, it would be establish as visual graphs with the objectively accurate food star based on the request name of the restaurant and the which suburb it resides at. <br/>
+**Overview**: This project webscrape user food review from a particular restaurant (when typed in the search bar) which the review are analysed by the BERT data model. With the results, it would be establish as visual graphs with the objectively accurate food star based on the request name of the restaurant and the which suburb it is located. <br/>
 
 ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/5c13c17e-58dd-4288-b722-d1aa5e20e164) <br/>
  <br/>
