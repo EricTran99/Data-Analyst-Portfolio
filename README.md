@@ -128,7 +128,15 @@ altering the model in order to find the most accurate model with the charity org
 
  <br/>
  <br/>
- 
+### Sentimental Food Review
+**Repository Link**:[Sentimental Analysis](https://github.com/Kakhai1/Sentiment-Analysis) <br/>
+**Overview**: This project webscrape food reviews, processed through a data model to establish an objective assessment. The results are displayed onto a website with visual graphs stating the overall objective review star based on the name of the restaurant and the suburb name.<br/>
+**Technology**: JavaScript, HTML, data modelling, API <br/>
+ <br/>
+ ![image](https://github.com/EricTran99/Data-Analyst-Portfolio/assets/134130254/d2a5e5c4-eba9-4d5e-b762-631aff419f65) <br/>
+ <br/>
+ <br/>
+
 ## Certificate
 Bachelor of Science (2022) - Monash University <br/>
 Graduate Certificate in Data analytics (2023) - Monash Bootcamp <br/>
