@@ -4,7 +4,7 @@ Hi, my name is Eric Tran, I have a analytical and scientific background in analy
  <br/>
 During my bootcamp course, I have learned and hone my skill in working with complicated data through various programming tools in order to identify trends and patterns. In addition, in my experience in the laboratory environment, I have honed my skill in data management and statistical analysis, which I believe will be valuable for my role as a data specialist. <br/>
  <br/>
-During my free time, I continue to explore and improve my programming skills beyond my time during the bootcamp, as well as testing my skills with various projects, whether the topic is based on real world data or personal curiosity. I’m always driven in finding insights that can’t be seen through a table of number and the satisfaction in using data as the answer to solving complex problems. <br/>
+During my free time, I continue to improve my programming skills beyond my time during the bootcamp, as well as testing my skills with various projects, whether the topic is based on real world data or personal curiosity. I’m always driven in finding insights that can’t be seen through a table of number and the satisfaction in using data as the answer to solving complex problems. <br/>
  <br/>
 My CV is attached as [Eric Tran Resume](https://github.com/EricTran99/Data-Analyst-Portfolio/blob/main/Eric%20Tran%20Resume%20-%20Data%20Analyst.pdf)<br/>
  <br/>
